@@ -3,9 +3,10 @@
 
 This is the simple library of calender, where you can set event on specific date. And this calender you can customize all section.
 
-For this version **we are not set any off or holiday** We will add in next version. So this library is simple to use. 
+For this version **we are not set any off or holiday** We will add in next version. So this library is simple to use.
+
 Sample
-![Alt Text](https://github.com/mahimrocky/ExpandableCardView/blob/master/screen.png)
+![Alt Text](https://github.com/mahimrocky/EventCalender/blob/master/screen.png)
 
 Following instructions you have to follow to use Expandable Card view
 
